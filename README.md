@@ -136,6 +136,6 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Developed by **Your Name**
+Developed by **Coceka Sapolo**
 
-GitHub: [Your GitHub Profile](https://github.com/your-username)
+GitHub: https://github.com/Cocekasapolo95
