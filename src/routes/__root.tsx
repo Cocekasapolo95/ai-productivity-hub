@@ -90,6 +90,12 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Workplace AI — Productivity Assistant" },
+      { name: "description", content: "AI Productivity Hub automates professional tasks with AI-powered tools for enhanced efficiency." },
+      { property: "og:description", content: "AI Productivity Hub automates professional tasks with AI-powered tools for enhanced efficiency." },
+      { name: "twitter:description", content: "AI Productivity Hub automates professional tasks with AI-powered tools for enhanced efficiency." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/cf7143c7-c22c-47fc-a6b8-de7a91de7ad9/id-preview-bde8645a--06a8d419-4c0a-4341-b239-46ce266451ef.lovable.app-1778745735030.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/cf7143c7-c22c-47fc-a6b8-de7a91de7ad9/id-preview-bde8645a--06a8d419-4c0a-4341-b239-46ce266451ef.lovable.app-1778745735030.png" },
     ],
     links: [
       {
