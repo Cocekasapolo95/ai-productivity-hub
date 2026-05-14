@@ -89,4 +89,3 @@ function Index() {
     </div>
   );
 }
-}
